@@ -16,3 +16,4 @@ for line in file:
  
     if year == 2010:
    print (city + " hosted the " + season + " Olympics in " + year - 2010)
+   
